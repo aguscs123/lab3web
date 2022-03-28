@@ -1,6 +1,11 @@
 # lab3web
 ## Membuat list, Tabel dan Form
 
-### Membuat list
+### Coding membuat list
 ![Gambar](ss/membuat list.png)
-![Gambar](ss/hasil%20membuat%20list.png)
+
+#### Coding membuat tabel
+![Gambar](ss/membuat tabel.png)
+
+##### Coding membuat form
+![Gambar](ss/membuat form.png)
