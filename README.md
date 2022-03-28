@@ -2,10 +2,10 @@
 ## Membuat list, Tabel dan Form
 
 ### Coding membuat list
-![Gambar](ss/membuat list.png)
+![Gambar](ss/membuat%20list.png)
 
 #### Coding membuat tabel
-![Gambar](ss/membuat tabel.png)
+![Gambar](ss/membuat%20tabel.png)
 
 ##### Coding membuat form
-![Gambar](ss/membuat form.png)
+![Gambar](ss/membuat%20form.png)
